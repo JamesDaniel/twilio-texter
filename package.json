@@ -1,0 +1,22 @@
+{
+  "name": "twilio-texter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesDaniel/twilio-texter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesDaniel/twilio-texter/issues"
+  },
+  "homepage": "https://github.com/JamesDaniel/twilio-texter#readme",
+  "dependencies": {
+    "twilio": "^3.54.1"
+  }
+}
